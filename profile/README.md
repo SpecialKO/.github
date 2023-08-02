@@ -4,4 +4,4 @@ Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit 
 
 [Home](https://special-k.info/) - [Download](https://sk-data.special-k.info/SpecialK.exe) - [Wiki](https://wiki.special-k.info/) - [Discord](https://discord.gg/specialk) - [Forum](https://discourse.differentk.fyi/) - [Patreon](https://www.patreon.com/Kaldaien)
 
-The repositories below makes up the code of Special K and its associated components.
+The repositories below make up the code of Special K and its associated components.
